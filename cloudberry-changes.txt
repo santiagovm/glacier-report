@@ -1,0 +1,6 @@
+﻿changes some settings in cloudberry
+
+run as-is for a few days and then see if things below are necessary
+
+do not use ssl, files are encrypted locally
+move logs to log folder and out of programdata folder

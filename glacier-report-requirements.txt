@@ -1,0 +1,24 @@
+﻿nas 1
+	backup folder
+		files count
+		folder size
+		timestamp
+
+glacier
+	backup vault
+		files count
+		folder size
+		timestamp
+		
+		
+Is the offsite backup in sync with the onsite backup?
+
+	send email if out of sync
+	
+Record in database daily metrics for trend analysis at later point
+
+report to show me the delta between the onsite and offsite backups
+
+report to show me the early-delete charges I would get if I were to run the backup now
+
+it seems that cloudberry does not delete files from glacier even if it is deleted from source. is that true?
