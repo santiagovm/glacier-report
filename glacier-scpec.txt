@@ -1,0 +1,26 @@
+﻿Given two folders, get their differences
+IFolderContents
+IFolderComparisonResult results = FolderComparer.Compare(IFolderContents source, IFolderContents target)
+
+IFolderComparisonResult
+{
+	files missing in target
+	files missing in source
+	files different (size, timestamp)
+	files that are identical (size, timestamp)
+}
+
+
+IFolderComparisonReport.Generate(IFolderComparisonResults)
+	Console
+	EmailText
+	EmailExcel
+	
+	
+Host in ConsoleApp that receives everything as arguments
+
+OffsiteBackup.Analytics
+	Core
+	Hosts.ConsoleApp
+	Hosts.WinService
+	

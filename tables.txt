@@ -1,0 +1,37 @@
+﻿Folder Comparison Results
+
+Source Type: fodere
+Source Path: cesare
+
+Target Type: fodere
+Target Path: cesare
+
+Source Files Count: 999
+Target Files Count: 999
+
+Files in Source not in Target:	999
+Files in Target not in Source:	999
+Files different:				999
+Files identical:				999
+
+
+Files in Source not in Target Details
+
++---+-----------------+---------------------+--------+
+| # |      file       |        date         |  size  |
++---+-----------------+---------------------+--------+
+| 1 | xyz\xyz\xyz.ddd | 99/99/9999 99:99:99	| 999 MB |
+| 2 | xyz\xyz\xyz.ddd |	99/99/9999 99:99:99	| 999 MB |
+| 3 | xyz\xyz\xyz.ddd |	99/99/9999 99:99:99	| 999 MB |
++---+---------------------------------------+--------+
+
+
+Files in Target not in Source Details
+
++---+-----------------+---------------------+--------+
+| # |      file       |        date         |  size  |
++---+-----------------+---------------------+--------+
+| 1 | xyz\xyz\xyz.ddd | 99/99/9999 99:99:99	| 999 MB |
+| 2 | xyz\xyz\xyz.ddd |	99/99/9999 99:99:99	| 999 MB |
+| 3 | xyz\xyz\xyz.ddd |	99/99/9999 99:99:99	| 999 MB |
++---+---------------------------------------+--------+
